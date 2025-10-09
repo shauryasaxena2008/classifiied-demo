@@ -1,4 +1,4 @@
 # classifiied-demo
-our first repository
+our first repositories
 <br>
 Author- Shaurya Saxena
